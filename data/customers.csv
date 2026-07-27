@@ -1,0 +1,16 @@
+customer_id,customer_name,country,region,customer_segment
+C001,Acme Corporation,Germany,Europe,Enterprise
+C002,Tech Solutions Pvt Ltd,India,Asia Pacific,Mid-Market
+C003,Global Industries,France,Europe,Enterprise
+C004,NorthStar Retail,United States,North America,Mid-Market
+C005,BlueWave Systems,United Kingdom,Europe,Enterprise
+C006,Sunrise Technologies,Japan,Asia Pacific,Enterprise
+C007,GreenField Supplies,Canada,North America,Small Business
+C008,EuroTech GmbH,Germany,Europe,Mid-Market
+C009,Pacific Traders,Australia,Asia Pacific,Small Business
+C010,Atlas Enterprises,United States,North America,Enterprise
+C011,Maple Solutions,Canada,North America,Mid-Market
+C012,Innovate Labs,India,Asia Pacific,Small Business
+C013,London Analytics,United Kingdom,Europe,Mid-Market
+C014,Paris Digital,France,Europe,Small Business
+C015,Tokyo Systems,Japan,Asia Pacific,Enterprise
