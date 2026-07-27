@@ -1,0 +1,11 @@
+product_id,product_name,category,unit_cost,unit_price
+P001,Laptop Pro,Electronics,700,1200
+P002,Office Monitor,Electronics,180,350
+P003,Wireless Keyboard,Accessories,25,60
+P004,Wireless Mouse,Accessories,15,40
+P005,Enterprise Server,Infrastructure,2500,5000
+P006,Cloud Storage Plan,Software,50,150
+P007,Analytics Platform,Software,500,1500
+P008,Network Router,Infrastructure,200,450
+P009,Security Suite,Software,100,300
+P010,Office Printer,Office Equipment,250,600s
