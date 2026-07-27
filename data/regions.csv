@@ -1,0 +1,11 @@
+region_id,region_name,country,continent
+R001,North America,United States,North America
+R002,Europe,Germany,Europe
+R003,Asia,India,Asia
+R004,Asia Pacific,Australia,Oceania
+R005,Latin America,Brazil,South America
+R006,Middle East,United Arab Emirates,Asia
+R007,Africa,South Africa,Africa
+R008,Europe,United Kingdom,Europe
+R009,Asia,Japan,Asia
+R010,North America,Canada,North America
