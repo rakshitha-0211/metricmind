@@ -1,0 +1,10 @@
+# dbt generated files
+metricmind_dbt/target/
+metricmind_dbt/dbt_packages/
+metricmind_dbt/logs/
+
+# General logs
+logs/
+
+# Local/context files
+data/Attached Element Context from Integrated.txt
